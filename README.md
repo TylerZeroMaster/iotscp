@@ -1,7 +1,7 @@
 ## Internet of Things Secure Control Protocol(IOTSCP)
 ***
 ### Project Vision
-**A simple, open, and secure** interface for creating and interacting with IoT devices. This interface should **limit control to a specific subset of network hosts.** More hosts can be added to the subset at any time **at the behest of the network administrator.**
+I started this project in 2017 with one goal. Provide a **simple, open, and secure** interface for creating and interacting with IoT devices. This interface should **limit control to a specific subset of network hosts.** More hosts can be added to the subset at any time **at the behest of the network administrator.** Unfortunately, I got a bit sidetracked for the last few years and never got around to sharing this project or making good on my future plans. Maybe one day I will: no promises.
 
 Learning about an IOTSCP device--including specific details about how to control it--should be as easy as browsing to a web page.
 ***
