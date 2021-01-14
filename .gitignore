@@ -1,0 +1,4 @@
+www/
+certificates/
+*.py[cod]
+userdevice.py
